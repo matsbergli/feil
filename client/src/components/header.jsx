@@ -57,7 +57,7 @@ export default function Header() {
             <Link to ="/profile">
             {currentUser ? (
                 <img src={currentUser.avatar} className = "rounded full h-6 w-6 max-w-lg mx-auto"alt="Profile" />
-            ): (<li className="bg-clip-text text-transparent bg-gradient-to-r from-yellow-500 to-green-500 hidden sm:inline px-7 py-2">Logg in</li>
+            ): (<li className="bg-clip-text text-transparent bg-gradient-to-r from-yellow-500 to-green-500 hidden sm:inline px-7 py-2">Logg inn</li>
             )}
             </Link>
 
