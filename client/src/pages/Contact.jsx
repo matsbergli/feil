@@ -8,7 +8,7 @@ export default function Contact() {
       <p className='mb-4 bg-white text-slate-900 text-center'>
       
       </p>
-      <p className='mb-4 bg-white text-slate-900 text-center'>Dette er siste avsnitt.</p>
+      <p className='mb-4 bg-white text-slate-900 text-center'>Kontaktbruker@gmail.com</p>
     </div>
   )
 }
