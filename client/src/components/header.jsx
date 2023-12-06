@@ -28,7 +28,7 @@ export default function Header() {
             
         <Link to="/">
             <h1 className="font-bold text-sm sm:text-2xl flex flex-wrap hover:opacity-80 transition east-in-out: duration-400 rounded-lg px-12 py-1 max-w-lg mx-auto">
-                <span className="bg-clip-text text-white ">Dag</span>
+                <span className="bg-clip-text text-white ">Bo</span>
                 <span className="bg-clip-text text-white ">Sted</span>
             </h1>
         </Link>
